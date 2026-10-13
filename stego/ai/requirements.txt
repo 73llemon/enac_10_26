@@ -1,0 +1,10 @@
+c2pa-python
+certifi
+cffi
+charset-normalizer
+cryptography
+idna
+pycparser
+requests
+toml
+urllib3
